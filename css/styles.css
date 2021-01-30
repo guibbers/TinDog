@@ -123,3 +123,14 @@ h2 {
    margin: 20px 20px 50px;
    width: 15%;
 }
+
+/* Pricing  */
+
+.pricing-item {
+   padding: 0 5%;
+   text-align: center;
+}
+
+.card {
+   margin-bottom: 10%;
+}

@@ -27,6 +27,12 @@ h2 {
    line-height: 1.5;
 }
 
+h3 {
+   font-family: 'Montserrat';
+   font-weight: bold;
+   line-height: 1.5;
+}
+
 /* Navigation Bar */
 
 .navbar {
@@ -126,11 +132,11 @@ h2 {
 
 /* Pricing  */
 
-.pricing-item {
-   padding: 0 5%;
+#pricing {
+   padding: 100px;
    text-align: center;
 }
 
-.card {
-   margin-bottom: 10%;
-}
+.pricing-item {
+   padding: 3% 2%;
+} 
